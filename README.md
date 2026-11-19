@@ -2,25 +2,30 @@
 
 Welcome to my Python Projects repository!
 
-This repository contains projects I build while learning Python and strengthening my programming skills. Each project helps me improve my problem-solving abilities and gain practical programming experience.
+This repository contains practical Python projects I build while learning Python and strengthening my programming skills.
 
 ## Projects
 
 ### 1. Electricity Bill Calculator
-- A Python program that calculates electricity bills based on units consumed.
-- **Language:** Python
+- Calculates electricity bills based on units consumed.
+- **Concepts:** Variables, input/output, conditional statements, calculations.
 
 ### 2. Student Management System
-- A menu-driven application for managing student records.
-- Features include admin authentication, adding, viewing, searching, updating, and deleting student records.
-- Uses JSON for data persistence.
-- Built with modular programming.
-- **Language:** Python
+- Allows users to register, view, search, update, and manage student records.
+- Stores student data using JSON.
+- **Concepts:** Functions, lists, dictionaries, file handling, JSON, exception handling.
 
-## Technologies
+### 3. Expense Tracker
+- Allows users to add, view, search, and track expenses.
+- Saves and loads expense records using JSON.
+- **Concepts:** Functions, lists, dictionaries, loops, file handling, JSON, input validation.
+
+## Technologies Used
 - Python
-- JSON
 - PyCharm
 - Git & GitHub
+
+## About
+These projects are part of my journey toward becoming a better programmer, with a long-term interest in Artificial Intelligence and Machine Learning.
 
 More projects coming soon!
