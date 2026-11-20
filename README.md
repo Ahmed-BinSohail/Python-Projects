@@ -2,30 +2,39 @@
 
 Welcome to my Python Projects repository!
 
-This repository contains practical Python projects I build while learning Python and strengthening my programming skills.
+This repository contains projects I build while learning Python and strengthening my programming and problem-solving skills through practical implementation.
 
 ## Projects
 
 ### 1. Electricity Bill Calculator
-- Calculates electricity bills based on units consumed.
-- **Concepts:** Variables, input/output, conditional statements, calculations.
+- A Python program that calculates electricity bills based on units consumed.
+- **Language:** Python
 
 ### 2. Student Management System
-- Allows users to register, view, search, update, and manage student records.
-- Stores student data using JSON.
-- **Concepts:** Functions, lists, dictionaries, file handling, JSON, exception handling.
+- A Python program to manage student records.
+- Supports adding, viewing, searching, updating, and deleting student records.
+- **Language:** Python
 
 ### 3. Expense Tracker
-- Allows users to add, view, search, and track expenses.
-- Saves and loads expense records using JSON.
-- **Concepts:** Functions, lists, dictionaries, loops, file handling, JSON, input validation.
+- A Python program to manage personal expenses.
+- Supports adding, viewing, searching, and saving expenses using JSON.
+- **Language:** Python
+
+### 4. Contact Book
+- A Python program to manage contacts through a command-line interface.
+- Supports adding, viewing, searching, updating, and deleting contacts.
+- Uses JSON for data storage and automatically loads saved contacts.
+- **Language:** Python
 
 ## Technologies Used
+
 - Python
 - PyCharm
 - Git & GitHub
+- JSON
 
 ## About
-These projects are part of my journey toward becoming a better programmer, with a long-term interest in Artificial Intelligence and Machine Learning.
+
+I'm continuously working on new projects to improve my programming skills, understand core concepts, and build practical applications.
 
 More projects coming soon!
